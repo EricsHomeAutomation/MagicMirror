@@ -1,0 +1,93 @@
+/*Sun*/
+.wi-day-sunny {
+	color: #ffff00;
+}
+
+/*Rain*/
+.wi-rain,
+.wi-rain-mix,
+.wi-rain-wind,
+.wi-raindrops,
+.wi-raindrop,
+.wi-showers,
+.wi-storm-showers,
+.wi-sprinkle,
+.wi-hail,
+.wi-day-rain,
+.wi-day-rain-mix,
+.wi-day-rain-wind,
+.wi-day-showers,
+.wi-day-storm-showers,
+.wi-day-sprinkle,
+.wi-day-hail,
+.wi-night-alt-rain,
+.wi-night-alt-rain-mix,
+.wi-night-alt-rain-wind,
+.wi-night-rain,
+.wi-night-rain-mix,
+.wi-night-rain-wind,
+.wi-night-alt-showers,
+.wi-night-alt-storm-showers,
+.wi-night-showers,
+.wi-night-storm-showers,
+.wi-storm-showers,
+.wi-night-alt-sprinkle,
+.wi-night-sprinkle,
+.wi-night-alt-hail,
+.wi-night-hail {
+	color: #00c3ff;
+}
+
+/*Cloudy*/
+.wi-cloud,
+.wi-cloudy,
+.wi-cloudy-gusts,
+.wi-cloudy-windy,
+.wi-day-cloudy,
+.wi-day-cloudy-gusts,
+.wi-day-cloudy-windy,
+.wi-day-cloudy-high,
+.wi-night-alt-cloudy,
+.wi-night-alt-cloudy-gusts,
+.wi-night-alt-cloudy-windy,
+.wi-night-cloudy,
+.wi-night-cloudy-gusts,
+.wi-night-cloudy-windy,
+.wi-night-partly-cloudy,
+.wi-night-alt-cloudy-high,
+.wi-night-cloudy-high,
+.wi-night-alt-partly-cloudy {
+	color: #b1b0b0;
+}
+
+/*Snow*/
+.wi-snow,
+.wi-snow-wind,
+.wi-snowflake-cold,
+.wi-day-snow,
+.wi-day-snow-thunderstorm,
+.wi-day-snow-wind,
+.wi-night-alt-snow,
+.wi-night-alt-snow-thunderstorm,
+.wi-night-alt-snow-wind,
+.wi-night-snow,
+.wi-night-snow-thunderstorm,
+.wi-night-snow-wind {
+	color: #00aaff;
+}
+
+/*Lightning*/
+.wi-lightning,
+.wi-day-lightning,
+.wi-night-alt-lightning,
+.wi-night-lightning,
+.wi-thunderstorm,
+.wi-thunderstorm,
+.wi-night-thunderstorm,
+.wi-night-snow-thunderstorm,
+.wi-night-alt-thunderstorm,
+.wi-night-alt-snow-thunderstorm,
+.wi-day-thunderstorm,
+.wi-day-snow-thunderstorm {
+	color: #ffff00;
+}
